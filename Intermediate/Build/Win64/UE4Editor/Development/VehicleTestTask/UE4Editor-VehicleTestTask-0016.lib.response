@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VehicleTestTask-0016.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\VehicleTestTaskEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\Car.cpp.obj"
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\CarAIController.cpp.obj"
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\ControlUserWidget.cpp.obj"
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\Garage.cpp.obj"
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\TargetPointActor.cpp.obj"
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\VehicleTestTask.cpp.obj"
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\VehicleTestTaskCharacter.cpp.obj"
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\VehicleTestTaskGameMode.cpp.obj"
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\Car.gen.cpp.obj"
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\CarAIController.gen.cpp.obj"
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\ControlUserWidget.gen.cpp.obj"
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\Garage.gen.cpp.obj"
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\TargetPointActor.gen.cpp.obj"
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\VehicleTestTask.init.gen.cpp.obj"
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\VehicleTestTaskCharacter.gen.cpp.obj"
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\VehicleTestTaskGameMode.gen.cpp.obj"
+"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\Default.rc2.res"
+/OUT:"C:\Unreal Projects\VehicleTestTask\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\UE4Editor-VehicleTestTask-0016.lib"
+/INCLUDE:IMPLEMENT_MODULE_VehicleTestTask

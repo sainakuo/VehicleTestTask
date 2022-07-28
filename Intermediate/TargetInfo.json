@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VehicleTestTask",
+			"Path": "C:\\Unreal Projects\\VehicleTestTask_\\Source\\VehicleTestTask.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VehicleTestTaskEditor",
+			"Path": "C:\\Unreal Projects\\VehicleTestTask_\\Source\\VehicleTestTaskEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

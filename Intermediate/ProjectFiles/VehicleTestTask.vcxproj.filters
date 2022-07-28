@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\VehicleTestTask.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{85F5F328-EF5E-4730-B7B3-19EB745BA2B9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VehicleTestTask.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VehicleTestTaskEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{21547CAF-DF60-4B67-BC96-2DF93BFC58B1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\VehicleTestTask">
+      <UniqueIdentifier>{B4B4CAE2-92F8-4B36-A7BB-2273F07755F5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VehicleTestTask\Car.cpp">
+      <Filter>Source\VehicleTestTask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VehicleTestTask\Car.h">
+      <Filter>Source\VehicleTestTask</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VehicleTestTask\CarAIController.cpp">
+      <Filter>Source\VehicleTestTask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VehicleTestTask\CarAIController.h">
+      <Filter>Source\VehicleTestTask</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VehicleTestTask\ControlUserWidget.cpp">
+      <Filter>Source\VehicleTestTask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VehicleTestTask\ControlUserWidget.h">
+      <Filter>Source\VehicleTestTask</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VehicleTestTask\Garage.cpp">
+      <Filter>Source\VehicleTestTask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VehicleTestTask\Garage.h">
+      <Filter>Source\VehicleTestTask</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VehicleTestTask\TargetPointActor.cpp">
+      <Filter>Source\VehicleTestTask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VehicleTestTask\TargetPointActor.h">
+      <Filter>Source\VehicleTestTask</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\VehicleTestTask\VehicleTestTask.Build.cs">
+      <Filter>Source\VehicleTestTask</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\VehicleTestTask\VehicleTestTask.cpp">
+      <Filter>Source\VehicleTestTask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VehicleTestTask\VehicleTestTask.h">
+      <Filter>Source\VehicleTestTask</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VehicleTestTask\VehicleTestTaskCharacter.cpp">
+      <Filter>Source\VehicleTestTask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VehicleTestTask\VehicleTestTaskCharacter.h">
+      <Filter>Source\VehicleTestTask</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VehicleTestTask\VehicleTestTaskGameMode.cpp">
+      <Filter>Source\VehicleTestTask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VehicleTestTask\VehicleTestTaskGameMode.h">
+      <Filter>Source\VehicleTestTask</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal Projects\\VehicleTestTask_\\Source\\VehicleTestTask\\VehicleTestTask.Build.cs",
+		"C:\\Unreal Projects\\VehicleTestTask_\\Source\\VehicleTestTask.Target.cs",
+		"C:\\Unreal Projects\\VehicleTestTask_\\Source\\VehicleTestTaskEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

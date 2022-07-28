@@ -1,0 +1,2 @@
+C:\Unreal Projects\VehicleTestTask_\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\Definitions.VehicleTestTask.h
+C:\Unreal Projects\VehicleTestTask_\Source\VehicleTestTask\VehicleTestTask.h

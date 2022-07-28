@@ -1,0 +1,5 @@
+C:\Unreal Projects\VehicleTestTask_\Intermediate\Build\Win64\UE4Editor\Development\VehicleTestTask\Definitions.VehicleTestTask.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Unreal Projects\VehicleTestTask_\Source\VehicleTestTask/TargetPointActor.h
+C:\Unreal Projects\VehicleTestTask_\Intermediate\Build\Win64\UE4Editor\Inc\VehicleTestTask\TargetPointActor.generated.h
